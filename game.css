@@ -1,0 +1,38 @@
+.header-questionitem{
+	margin-bottom: 100px;
+}
+
+.question-item{
+	float: left;
+}
+
+.question-item1{
+	float: right;
+}
+
+.game {
+	text-align: left;
+}
+
+#progressBar {
+	width: 150px;
+	height: 40px;
+	border-radius: 90px;
+	border: 5px solid #0a01ff;
+}
+
+.choice-container {
+	width: 100%;
+	background-color: #0a01ff;
+	margin-bottom: 10px;
+	padding: 10px 0px 10px 7px;
+}
+
+.choice {
+	float: left;
+	padding-right: 7px;
+}
+
+.choice-container:hover {
+	background-color: #bf00ff;
+}
